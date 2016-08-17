@@ -1,0 +1,7 @@
+name          | id     | amount
+-------------------------------------------
+Daniel Nguyen | 234 | $180.21
+Terry Crews | 351 | $633.56
+John Smith | 451 | $3000.78
+Manu Ginobli | 461 | $3000.02
+Bob Barker | 481 | $3000.35
