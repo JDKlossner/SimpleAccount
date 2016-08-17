@@ -1,5 +1,4 @@
 Jordan Klossner
-A04107313
 
 ~~~~~~~SimpleAcc~~~~~~~~~
 Run Jar Executable including a commandline argument of your input file. Ex. SimpleAcc.jar input.txt
