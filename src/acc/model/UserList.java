@@ -58,7 +58,7 @@ public class UserList {
 	        {
 	            line = inFile.nextLine();   // read the next line
 	            
-	            //JOptionPane.showMessageDialog( new JDialog(), line);
+	            //JOptionPane.showMessageDialog( new JDialog(), line); //Debugging line to output current ingoing entry.
 	            
 	            String[] info = line.split( "[|]" );
 	            info[0] = info[0].substring( 0, ( info[0].length() - 1 ));
